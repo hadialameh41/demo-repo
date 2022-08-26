@@ -6,4 +6,5 @@ some text
 
 ## local dev 
 
-1. open index.html in browser.
+1. trying to pull
+2. ss
